@@ -4,3 +4,25 @@
     url(https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2018/08/friends.jpg?fit=1200%2C800&ssl=1);
     background-size: cover;
 }   
+
+#reviews {
+    background-color: #f0af4f;
+}
+
+.testimonials {
+    padding: 30px;
+    background-color: var(--bg1);
+    border-radius: 1px;
+}
+
+.testimonials img {
+    width: 65px;
+    border-radius: 100px;
+    height: 65px;
+}
+
+#reviews h6 a {
+    text-decoration: none;
+    color: var(--brand);
+}
+
